@@ -10,13 +10,14 @@
 
 ### 🌟 Sobre mí
 
-Actualmente curso el último año de secundaria con orientación técnica en computación y programación.  
-Tengo un gran interés por la programación y disfruto aprender nuevas herramientas y lenguajes.
+Actualmente curso el último año de secundaria con orientación técnica en computación y programación.
+Tengo interés por la programación y disfruto aprender nuevas herramientas.
 
-Planeo seguir una tecnicatura relacionada con el desarrollo de software una vez que termine el colegio.  
-Me considero curiosa, comprometida y con muchas ganas de seguir creciendo profesionalmente.
+Me apasiona el diseño de interfaces y el diseño gráfico en general. Como hobby, suelo explorar herramientas como Adobe Illustrator (aunque de forma amateur), porque me gusta expresar mi creatividad visualmente.
 
----
+Me considero una persona con escucha activa, versátil y capaz de adaptarse a distintos roles.
+En muchos proyectos he tomado la iniciativa y asumido el rol de líder, lo cual disfruto porque me permite guiar al equipo y fomentar una buena comunicación.---
+Planeo seguir una tecnicatura relacionada con la programación una vez que termine el colegio.
 
 ### 🛠️ Tecnologías y herramientas
 
@@ -30,6 +31,7 @@ Me considero curiosa, comprometida y con muchas ganas de seguir creciendo profes
 ![Workbench](https://img.shields.io/badge/-Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
 ---
 
@@ -39,6 +41,8 @@ Me considero curiosa, comprometida y con muchas ganas de seguir creciendo profes
 - Desarrollo web básico  
 - Bases de datos  
 - Organización de proyectos  
+- También uso Adobe Illustrator de forma amateur para proyectos de diseño personal
+
 
 ---
 
