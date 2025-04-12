@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Sara Luz Aguilar</h1>
 
 <p align="center">
-💻 Estudiante de secundaria técnica <br>
+💻 Estudiante <br>
 🎓 Colegio técnico: <strong>Hogar Naval Stella Maris · E.T. 37 D.E. 11</strong> <br>
 🌸 Me gusta aprender cosas nuevas y dar siempre lo mejor en lo que hago
 </p>
