@@ -1,19 +1,19 @@
 <h1 align="center">¡Hola! 👋 Soy Sara Luz Aguilar</h1>
 
 <p align="center">
-💻 Estudiante de informática & programación <br>
-🎓 Colegio técnico: <strong>Hogar Naval Stella Maris · E.T. 37 D-E-11</strong> <br>
-🌸 Apasionada por la tecnología, el aprendizaje y el futuro en desarrollo de software
+💻 Estudiante de secundaria técnica <br>
+🎓 Colegio técnico: <strong>Hogar Naval Stella Maris · E.T. 37 D.E. 11</strong> <br>
+🌸 Me gusta aprender cosas nuevas y dar siempre lo mejor en lo que hago
 </p>
 
 ---
 
 ### 🌟 Sobre mí
 
-Actualmente estoy cursando la secundaria con orientación técnica en informática y computación.  
-Tengo un gran interés en la programación y me encanta aprender nuevas herramientas y lenguajes.
+Actualmente curso el último año de secundaria con orientación técnica en computación y programación.  
+Tengo un gran interés por la programación y disfruto aprender nuevas herramientas y lenguajes.
 
-Planeo seguir una tecnicatura relacionada a la programación una vez que termine el colegio.  
+Planeo seguir una tecnicatura relacionada con el desarrollo de software una vez que termine el colegio.  
 Me considero curiosa, comprometida y con muchas ganas de seguir creciendo profesionalmente.
 
 ---
@@ -35,10 +35,23 @@ Me considero curiosa, comprometida y con muchas ganas de seguir creciendo profes
 
 ### 📚 Actualmente aprendiendo
 
-- Fundamentos de programación
-- Desarrollo web básico
-- Bases de datos
-- Organización de proyectos
+- Fundamentos de programación  
+- Desarrollo web básico  
+- Bases de datos  
+- Organización de proyectos  
+
+---
+
+### 📜 Cursos y formación complementaria
+
+- 🐍 **Curso de Python** – *Aprende Programando* (2023)  
+  &nbsp;&nbsp;&nbsp;&nbsp;Duración: 3 horas semanales
+
+- 💼 **Aprender a Emprender** – *Junior Achievement* (2024)  
+  &nbsp;&nbsp;&nbsp;&nbsp;Rol: Directora de RRHH en la simulación de una empresa
+
+- 🌐 **Prácticas Profesionalizantes en Desarrollo Web** – *Generación T · Streambe* (2024)  
+  &nbsp;&nbsp;&nbsp;&nbsp;Proyecto final expuesto ante un jurado
 
 ---
 
@@ -50,5 +63,5 @@ Me considero curiosa, comprometida y con muchas ganas de seguir creciendo profes
 ---
 
 <p align="center">
-🌷 <em>"El futuro pertenece a quienes creen en la belleza de sus sueños."</em> – Eleanor Roosevelt
+🌷 <em>"Porque no nos ha dado Dios un espíritu de cobardía, sino de poder, de amor y de dominio propio."</em> – 2 Timoteo 1:7
 </p>
