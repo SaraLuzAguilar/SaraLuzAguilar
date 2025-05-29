@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Sara Luz Aguilar</h1>
+<h1 align="center">¡Hola! Soy Sara Luz Aguilar</h1>
 
 <p align="center">
 💻 Estudiante <br>
@@ -18,6 +18,7 @@ Me apasiona el diseño de interfaces y el diseño gráfico en general. Como hobb
 Me considero una persona con escucha activa, versátil y capaz de adaptarse a distintos roles.
 En muchos proyectos he tomado la iniciativa y asumido el rol de líder, lo cual disfruto porque me permite guiar al equipo y fomentar una buena comunicación.
 Planeo seguir una tecnicatura relacionada con la programación una vez que termine el colegio.
+Estoy siempre dispuesta a aprender más.
 
 ---
 ### 🛠️ Tecnologías y herramientas
@@ -39,10 +40,10 @@ Planeo seguir una tecnicatura relacionada con la programación una vez que termi
 ### 📚 Actualmente aprendiendo
 
 - Fundamentos de programación  
-- Desarrollo web básico  
+- Desarrollo web   
 - Bases de datos  
 - Organización de proyectos  
-- También uso Adobe Illustrator de forma amateur para proyectos de diseño personal
+- Adobe Illustrator de forma amateur para proyectos de diseño personal
 
 
 ---
@@ -55,15 +56,18 @@ Planeo seguir una tecnicatura relacionada con la programación una vez que termi
 - 💼 **Aprender a Emprender** – *Junior Achievement* (2024)  
   &nbsp;&nbsp;&nbsp;&nbsp;Rol: Directora de RRHH en la simulación de una empresa
 
-- 🌐 **Prácticas Profesionalizantes en Desarrollo Web** – *Generación T · Streambe* (2024)  
+- 🌐 **Prácticas Profesionalizantes en Desarrollo Web** – *Generación T· Stage 1 · Streambe* (2024)  
   &nbsp;&nbsp;&nbsp;&nbsp;Proyecto final expuesto ante un jurado
+
+- 💻 **Responsive Web Design** – *FreeCodeCamp* (2025)  
+  &nbsp;&nbsp;&nbsp;&nbsp;Html, css.
 
 ---
 
 ### 📫 Contacto
 
-💌 *Próximamente LinkedIn y portfolio personal*  
-💭 *Podés escribirme si querés colaborar o practicar juntos/as*  
+- *GMail:* sariiiagui@gmail.com  
+- *Linkedin:*  
 
 ---
 
