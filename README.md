@@ -17,11 +17,11 @@ Me apasiona el diseño de interfaces y el diseño gráfico en general. Como hobb
 
 Me considero una persona con escucha activa, versátil y capaz de adaptarse a distintos roles.
 En muchos proyectos he tomado la iniciativa y asumido el rol de líder, lo cual disfruto porque me permite guiar al equipo y fomentar una buena comunicación.
-Planeo seguir una tecnicatura relacionada con la programación una vez que termine el colegio.
+Planeo seguir una tecnicatura de diseño y programación web una vez que termine el colegio.
 Estoy siempre dispuesta a aprender más.
 
 ---
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Tecnologías y herramientas que utilizamos en el secundario
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-68217A?style=flat&logo=csharp&logoColor=white)
